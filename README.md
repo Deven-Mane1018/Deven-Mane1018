@@ -9,7 +9,7 @@
 <img align="right" alt="procoder" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400"/>
 
 - 🔭 I'm a <b> MERN Stack & AI-ML Developer</b> 
-- 🌱 Pursuing <b>BCA 2nd Year</b>
+- 🌱 Pursuing <b>BCA Final Year</b>
 - 👯 Looking forward to collaborate on Full Stack & AI-ML projects
 - 💬 Ask me about **Web Development, AI-ML, Quantum Computing, Research**
 - 📫 How to reach me **deven.collab@gmail.com**
